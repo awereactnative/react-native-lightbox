@@ -9,7 +9,7 @@ Lightbox is Shoutem’s fork of react-native-lightbox component. All content wit
  npm install --save react-native-lightbox
 ```
 
-## App.js Code
+## App.js
 
 ```js
 import React, { Component } from 'react';
